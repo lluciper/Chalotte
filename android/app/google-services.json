@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434297627516",
+    "project_id": "chalotte-26f18",
+    "storage_bucket": "chalotte-26f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434297627516:android:d7baa1eba0f489dace3af9",
+        "android_client_info": {
+          "package_name": "com.example.chalotte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJKuPdw2DmX3WV7xmtmL96t-qMU6RAD0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
